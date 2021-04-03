@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(56, 53, 53);
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#div1{
+    color: gold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+#div2{
+    color: royalblue;
+    font-style: italic;
+}

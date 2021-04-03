@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body{
+    background-color: gray;
+    font-style:oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: gold;
+}
